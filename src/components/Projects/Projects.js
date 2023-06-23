@@ -2,12 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import readypetgo from "../../Assets/readyPetGo.png";
+import playtimeover from "../../Assets/playtimeover.png";
+import weatherup from "../../Assets/weatherup.png";
+import orm from "../../Assets/orm.png"
+import shorty from "../../Assets/shorty-gonna.png"
 
 function Projects() {
   return (
@@ -23,10 +22,10 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={''}
+              imgPath={readypetgo}
               isBlog={false}
               title="Ready, Pet, Go!"
-              description="MERN Stack App focused on current, new, and future pet-owners.  Combines social media profile and picture uploads with ecommerce Stripe transactions, as well as real-time chat and a community forum for posts with comments/feedback."
+              description="MERN Stack App focused on current, new, and future pet-owners.  Combines social media profile and picture uploads for the user and the user's pets, with ecommerce Stripe transactions for purchasing items, as well real-time chat and a community forum for posts with comments/feedback."
               ghLink="https://github.com/js-Quest/ready-pet-go"
               demoLink="https://ready-pet-go-835e6edf1caa.herokuapp.com/"
             />
@@ -34,10 +33,10 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={''}
+              imgPath={playtimeover}
               isBlog={false}
               title="Playtime-Over"
-              description="This is a 2-D arcade-style animated video game! This app was built using Javascript and HTML5 Canvas methods, as well as MySQL, Express, Express-session, and Handlebars.  Please be conscious of the volume level, as there are sound effects and music (you can toggle the music on/off by clicking anywhere on the screen)."
+              description="This is a 2-D arcade-style animated video game! This app was built using Javascript and HTML5 Canvas methods, as well as MySQL, Express, Express-session, and Handlebars.  Please mind the volume level, as there are sound effects and music (toggle the music on/off by clicking anywhere on the screen)."
               ghLink="https://github.com/js-Quest/play-time-over"
               demoLink="https://play-time-over.herokuapp.com/"
             />
@@ -45,39 +44,39 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={''}
+              imgPath={shorty}
               isBlog={false}
               title="Shorty-Gonna-Read"
               description="This is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package and the fs package. Please refer to the package.json file for the versions of the dependencies used. This application was built using Node.js"
               ghLink="https://github.com/js-Quest/shorty-gonna-read"
-              demoLink="https://user-images.githubusercontent.com/128349503/234452878-7ac40e2c-eb4d-4286-836e-89f2e41099f9.webm/"              
+              demoLink="https://user-images.githubusercontent.com/128349503/234452878-7ac40e2c-eb4d-4286-836e-89f2e41099f9.webm"              
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={''}
+              imgPath={weatherup}
               isBlog={false}
               title="Under My Umbrella"
-              description="A simple javascript weather application with a 5 day forecast. It calls and displays information from the Openweathermap API depending on the user input. It also presents the user with up to 5 recent search values from local storage for quick access to previous searches. The user interface includes a horizontal scroll bar at the bottom for the future weather forecast display cards."
+              description="Weather application with a 5 day forecast. It calls and displays information from the Openweathermap API depending on the user input. It also presents the user with up to 5 recent search values from local storage for quick access to previous searches. The mobile-responsive interface includes a horizontal scroll bar at the bottom for the future weather forecast display for small screens."
 
               ghLink="https://github.com/js-Quest/under-my-umbrella"
               demoLink="https://js-quest.github.io/under-my-umbrella/"
             />
           </Col>
 
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={orm}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              title="ORM-My-Gawd"
+              description="A sample backend database for an ecommerce site using Object Relational Mapping techniques and MySQL, with full CRUD capabilities."
+              ghLink="https://github.com/js-Quest/orm-my-gawd"
+              demoLink="https://drive.google.com/file/d/1WZbH10fRAVTGMvlrApJT3TQXpaWbCBtL/view"
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={emotion}
               isBlog={false}

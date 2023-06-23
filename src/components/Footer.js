@@ -16,7 +16,7 @@ function Footer() {
         <Col md="4" className="footer-copywright">
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>JS © {year}</h3>
+          <h3>JS {year}</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">

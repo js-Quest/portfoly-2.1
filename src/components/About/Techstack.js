@@ -1,6 +1,5 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
   DiReact,
@@ -18,8 +17,8 @@ import {
   SiBootstrap,
   SiHandlebarsdotjs,
   SiExpress,
-
 } from "react-icons/si";
+
 
 function Techstack() {
   return (
