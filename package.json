@@ -27,6 +27,8 @@
     "typewriter-effect": "^2.18.2",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://js-quest.github.io/portfoly-2.1",
+
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
