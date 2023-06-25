@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import portrait from "../../Assets/smileSM.png";
+import portrait from "../../assets/smileSM.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,

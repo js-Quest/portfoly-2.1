@@ -2,11 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import readypetgo from "../../Assets/readyPetGo.png";
-import playtimeover from "../../Assets/playtimeover.png";
-import weatherup from "../../Assets/weatherup.png";
-import orm from "../../Assets/orm.png"
-import shorty from "../../Assets/shorty-gonna.png"
+import readypetgo from "../../assets/readyPetGo.png";
+import playtimeover from "../../assets/playtimeover.png";
+import weatherup from "../../assets/weatherup.png";
+import orm from "../../assets/orm.png"
+import shorty from "../../assets/shorty-gonna.png"
 
 function Projects() {
   return (
