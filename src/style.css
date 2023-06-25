@@ -194,7 +194,7 @@ button:focus {
   height: 5px;
   width: 0;
   border-radius: 16px;
-  background: #c95bf5;
+  background: rgb(59, 182, 112);
   bottom: 1px;
   left: 0;
   z-index: -1;
@@ -399,7 +399,7 @@ button:focus {
 }
 
 .icon-colour {
-  color: #700c86 !important;
+  color: rgb(50, 159, 97) !important;
 }
 
 /* --------- */
