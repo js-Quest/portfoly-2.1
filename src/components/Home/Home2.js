@@ -48,7 +48,7 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={portrait} className="img-fluid my-Img" alt="avatar" />
+              <img src={"../../Assets/portrait2.png"} className="img-fluid my-Img" alt="avatar" />
             </Tilt>
           </Col>
         </Row>
