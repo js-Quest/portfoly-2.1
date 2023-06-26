@@ -18,17 +18,18 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I have always been fascinated with all things tech.  Having owned and operated a profitable restaurant/pub, I decided to sell it at the end of 2022 to pursue my passion in web development.
+              I have always been fascinated with all things tech.  Having owned and operated a profitable restaurant/pub, I decided to sell it at the end of 2022 to pursue my passion for web development.
               <br />
               <br />My bases include:
               <i>
                 <b className="purple"> Javascript, SQL, NoSQL, HTML, & CSS. </b>
               </i>
+              <br />Check out my "About" tab for additional techstack info.
               <br />
               <br />
-              I am a fan of continually learning, improving, testing and building &nbsp;
+              I am a fan of continually learning, testing and building &nbsp;
               <i>
-                <b className="purple">New Web Applications and Products </b>
+                <b className="purple">New Applications and Technologies. </b>
               </i>
               <br />
               <br />
