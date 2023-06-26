@@ -20,19 +20,19 @@ function Home2() {
             <p className="home-about-body">
               I have always been fascinated with all things tech.  Having owned and operated a profitable restaurant/pub, I decided to sell it at the end of 2022 to pursue my passion in web development.
               <br />
-              <br />My Languages Include
+              <br />My bases include:
               <i>
                 <b className="purple"> Javascript, SQL, NoSQL, HTML, & CSS. </b>
               </i>
               <br />
               <br />
-              I am a fan of continually learning, improving, and building &nbsp;
+              I am a fan of continually learning, improving, testing and building &nbsp;
               <i>
                 <b className="purple">New Web Applications and Products </b>
               </i>
               <br />
               <br />
-              I also enjoy applying my passion for developing products
+              I also enjoy developing products
               with <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
