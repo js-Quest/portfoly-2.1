@@ -25,7 +25,7 @@ function Projects() {
               imgPath={readypetgo}
               isBlog={false}
               title="Ready, Pet, Go!"
-              description="MERN Stack App focused on current, new, and future pet-owners.  Combines social media profile and picture uploads for the user and the user's pets, with ecommerce Stripe transactions for purchasing items, as well real-time chat and a community forum for posts with comments/feedback."
+              description="MERN Stack App focused on current, new, and future pet-owners.  Combines social media profile and picture uploads for the user and the user's pets, with ecommerce Stripe transactions for purchasing items, as well as integrating a real-time chat app and a community forum for posts with comments/feedback."
               ghLink="https://github.com/js-Quest/ready-pet-go"
               demoLink="https://ready-pet-go-835e6edf1caa.herokuapp.com/"
             />
