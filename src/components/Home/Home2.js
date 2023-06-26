@@ -22,12 +22,12 @@ function Home2() {
               <br />
               <br />My bases include:
               <i>
-                <b className="purple"> Javascript, SQL, NoSQL, HTML, & CSS. </b>
+                <b className="purple"> Javascript, SQL, NoSQL, HTML & CSS. </b>
               </i>
               <br />Check out my "About" tab for additional techstack info.
               <br />
               <br />
-              I am a fan of continually learning, testing and building &nbsp;
+              I am a fan of continually building and testing &nbsp;
               <i>
                 <b className="purple">New Applications and Technologies. </b>
               </i>
