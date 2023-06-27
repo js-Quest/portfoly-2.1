@@ -28,10 +28,11 @@ App for viewing my projects and resume, with some additional information about m
 [React Particles](https://www.youtube.com/watch?v=NO76xNYkNGk)   
 [React Bootstrap](https://react-bootstrap.netlify.app/docs/components/navbar/)  
 [MUI docs](https://mui.com/)  
-[PedroTech](https://www.youtube.com/watch?v=Q9n2mLqXFpU)
-[chetanvarma16](https://github.com/chetanverma16/react-portfolio-template)  
+[PedroTech](https://www.youtube.com/watch?v=Q9n2mLqXFpU)  
+[chetanvarma16](https://github.com/chetanverma16/react-portfolio-template)    
 [soumyajit](https://github.com/soumyajit4419)  
 [StackOverflow](https://stackoverflow.com/questions/57883297/deploying-reactjs-website-on-github-pages-with-routing-results-in-404-error-on-r)  
+[Github Pages Docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)  
 
 ## Tests
 
