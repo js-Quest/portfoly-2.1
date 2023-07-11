@@ -4,7 +4,8 @@
 
 ## Description
 
-This is my portfolio, made with React.
+This is my portfolio, made with React.  Please see updated porfolio at [Link](https://js-quest.io)  
+
 
 ## Table of Contents
 
@@ -17,7 +18,9 @@ This is my portfolio, made with React.
 
 ## Installation
 
-Click in the [Link](https://js-quest.github.io/portfoly-2.1) to navigate to the deployed app
+For the legacy gh-pages version: Click on the [Link](https://js-quest.github.io/portfoly-2.1)  
+
+Please see my UPDATED porfolio at [Link](https://js-quest.io) deployed via Vercel for the current version.  
 
 ## Usage
 
