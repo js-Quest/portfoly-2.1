@@ -20,7 +20,7 @@ This is my portfolio, made with React.  Please see updated porfolio at [Link](ht
 
 For the legacy gh-pages version: Click on the [Link](https://js-quest.github.io/portfoly-2.1)  
 
-Please see my UPDATED porfolio at [Link](https://js-quest.io) deployed via Vercel for the current version.  
+Please see my UPDATED porfolio at [js-quest.io](https://js-quest.io) deployed via Vercel for the current version.  
 
 ## Usage
 
